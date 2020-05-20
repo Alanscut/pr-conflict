@@ -4,7 +4,7 @@
 int main() {
     printf("===================start===================\n");
     int a = 0;
-    int b = 1;
+    int b = 10086;
     int c = 10000;
     int d = a + b + c;
     printf("d = %d\n");
