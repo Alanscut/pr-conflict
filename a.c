@@ -3,7 +3,7 @@
 
 int main() {
     printf("===================start===================\n");
-    int a = 0;
+    int a = 20000;
     int b = 1;
     int c = 2;
     int d = a + b + c;
